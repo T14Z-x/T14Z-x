@@ -1,21 +1,15 @@
 # 💫 About Me:
 👋 Hi, I’m Tiaz! — a passionate Full-Stack Developer dedicated to building scalable, efficient, and user-friendly digital solutions.<br><br>
-
 🚀 I’m currently working on:<br>
 ERP software, flexible applications, web-based apps, and modern websites using React, Node.js, and Next.js.<br><br>
-
 🤝 I’m looking to collaborate on:<br>
 Full-stack projects, ERP systems, and scalable web applications.<br><br>
-
 🆘 I’m looking for help with:<br>
 Exploring advanced system design, cloud deployment, and scalable backend solutions.<br><br>
-
 🌱 I’m currently learning:<br>
 Next.js advanced features, API integration, and performance optimization.<br><br>
-
 💬 Ask me about:<br>
 React, Node.js, Next.js, ERP development, or full-stack workflows.<br><br>
-
 ⚡ Fun fact:<br>
 I’m a night owl 🌙 who codes endlessly, loves experimenting with new tech, and dreams of building digital solutions for everyone!<br>
 
