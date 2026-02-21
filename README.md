@@ -9,8 +9,8 @@ Advanced distributed systems design, large-scale infrastructure, and cloud-nativ
 System design at scale, performance engineering, and advanced cloud architecture patterns.
 <br><br>Ask me about
 Frontend architecture, scalable React ecosystems, UI animation systems, React Native apps, and real-time dashboards.
-<br><br>Fun fact
-I enjoy transforming complex product requirements into refined, high-performance, and visually polished user experiences.
+<br><br>Portfolio Website
+Visit: https://tiaz.vercel.app
 
 
 # 💻 Tech Stack:
