@@ -1,5 +1,16 @@
 # 💫 About Me:
-<br>🔭 **I’m currently working on**<br>Scalable fintech, e-commerce, and IoT platforms using React, Next.js, TypeScript, and React Native.<br><br>👯 **I’m looking to collaborate on**<br>Modern web apps, motion-driven UI projects, and innovative SaaS products.<br><br>🤝 **I’m looking for help with**<br>Advanced system design, high-scale architecture, and cloud optimization.<br><br>🌱 **I’m currently learning**<br>System design patterns, performance engineering, and deeper cloud-native development.<br><br>💬 **Ask me about**<br>React, Next.js, UI animation, React Native, and building real-time dashboards.<br><br>⚡ **Fun fact**<br>I love turning complex systems into smooth, animated user experiences.<br>
+<br>I’m currently working on
+Scalable fintech, e-commerce, and IoT platforms using React, Next.js, TypeScript, and React Native, focusing on performance, clean architecture, and real-time systems.
+<br><br>I’m looking to collaborate on
+High-impact SaaS products, complex frontend architectures, and platform-scale web or mobile applications.
+<br><br>I’m looking for help with
+Advanced distributed systems design, large-scale infrastructure, and cloud-native optimization strategies.
+<br><br>I’m currently learning
+System design at scale, performance engineering, and advanced cloud architecture patterns.
+<br><br>Ask me about
+Frontend architecture, scalable React ecosystems, UI animation systems, React Native apps, and real-time dashboards.
+<br><br>Fun fact
+I enjoy transforming complex product requirements into refined, high-performance, and visually polished user experiences.
 
 
 # 💻 Tech Stack:
