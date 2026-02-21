@@ -1,19 +1,6 @@
-# Tiaz
+# 💫 About Me:
+Here’s a clean, professional version you can use for those GitHub profile sections:<br><br>🔭 **I’m currently working on**<br>Scalable fintech, e-commerce, and IoT platforms using React, Next.js, TypeScript, and React Native.<br><br>👯 **I’m looking to collaborate on**<br>Modern web apps, motion-driven UI projects, and innovative SaaS products.<br><br>🤝 **I’m looking for help with**<br>Advanced system design, high-scale architecture, and cloud optimization.<br><br>🌱 **I’m currently learning**<br>System design patterns, performance engineering, and deeper cloud-native development.<br><br>💬 **Ask me about**<br>React, Next.js, UI animation, React Native, and building real-time dashboards.<br><br>⚡ **Fun fact**<br>I love turning complex systems into smooth, animated user experiences.<br>
 
-Full-Stack Developer building scalable web apps and ERP solutions.
 
-## Core Stack
-React • Next.js • TypeScript • Node.js • Laravel • Django • MySQL • MongoDB • Prisma
-
-## Focus
-- Scalable full-stack products
-- ERP systems
-- Performance-first web development
-
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=T14Z-X&theme=tokyonight&hide_border=true&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=T14Z-X&layout=compact&theme=tokyonight&hide_border=true)
-
-## Contact
-- Email: `asifimtiaz752@gmail.com`
-- LinkedIn: `[https://linkedin.com/in/your-profil](https://www.linkedin.com/in/gazi-asif-imtiaz/)e`
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
